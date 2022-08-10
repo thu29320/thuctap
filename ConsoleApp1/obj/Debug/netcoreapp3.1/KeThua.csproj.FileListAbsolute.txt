@@ -1,0 +1,14 @@
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.exe
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.deps.json
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.runtimeconfig.json
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.runtimeconfig.dev.json
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.dll
+D:\visualcode\ngay1_8\ConsoleApp1\bin\Debug\netcoreapp3.1\KeThua.pdb
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.AssemblyInfoInputs.cache
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.AssemblyInfo.cs
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.csproj.CoreCompileInputs.cache
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.dll
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.pdb
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.genruntimeconfig.cache
+D:\visualcode\ngay1_8\ConsoleApp1\obj\Debug\netcoreapp3.1\KeThua.csproj.AssemblyReference.cache

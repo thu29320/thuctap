@@ -1,0 +1,14 @@
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.csproj.AssemblyReference.cache
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.AssemblyInfoInputs.cache
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.AssemblyInfo.cs
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.csproj.CoreCompileInputs.cache
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.exe
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.deps.json
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.runtimeconfig.json
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.runtimeconfig.dev.json
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.dll
+D:\visualcode\ngay1_8\BaiTapThayTho\bin\Debug\netcoreapp3.1\BaiTapThayTho.pdb
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.dll
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.pdb
+D:\visualcode\ngay1_8\BaiTapThayTho\obj\Debug\netcoreapp3.1\BaiTapThayTho.genruntimeconfig.cache

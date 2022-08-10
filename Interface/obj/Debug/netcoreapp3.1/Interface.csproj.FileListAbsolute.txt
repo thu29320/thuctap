@@ -1,0 +1,14 @@
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\visualcode\ngay1_8\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\visualcode\ngay1_8\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

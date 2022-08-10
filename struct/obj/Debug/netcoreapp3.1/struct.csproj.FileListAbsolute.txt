@@ -1,0 +1,14 @@
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.csproj.AssemblyReference.cache
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.AssemblyInfoInputs.cache
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.AssemblyInfo.cs
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.csproj.CoreCompileInputs.cache
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.exe
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.deps.json
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.runtimeconfig.json
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.runtimeconfig.dev.json
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.dll
+D:\visualcode\ngay1_8\struct\bin\Debug\netcoreapp3.1\struct.pdb
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.dll
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.pdb
+D:\visualcode\ngay1_8\struct\obj\Debug\netcoreapp3.1\struct.genruntimeconfig.cache
